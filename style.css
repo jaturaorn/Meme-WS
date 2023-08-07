@@ -6,6 +6,7 @@
 .meme-generator img {
     height: 450px;
     object-fit: cover;
+    border: 4px solid #222;
 }
 
 .meme-generator .generate-meme-btn {
